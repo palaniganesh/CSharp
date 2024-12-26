@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\Sort-04-Shell\bin\Debug\net8.0\Sort-04-Shell.exe
+D:\Learn\DSA\CSharp\Sort-04-Shell\bin\Debug\net8.0\Sort-04-Shell.deps.json
+D:\Learn\DSA\CSharp\Sort-04-Shell\bin\Debug\net8.0\Sort-04-Shell.runtimeconfig.json
+D:\Learn\DSA\CSharp\Sort-04-Shell\bin\Debug\net8.0\Sort-04-Shell.dll
+D:\Learn\DSA\CSharp\Sort-04-Shell\bin\Debug\net8.0\Sort-04-Shell.pdb
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\Sort-04-Shell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\Sort-04-Shell.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\Sort-04-Shell.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\Sort-04-Shell.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\Sort-04-Shell.dll
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\refint\Sort-04-Shell.dll
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\Sort-04-Shell.pdb
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\Sort-04-Shell.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\Sort-04-Shell\obj\Debug\net8.0\ref\Sort-04-Shell.dll

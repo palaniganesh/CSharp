@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\Sort-03-Bubble\bin\Debug\net8.0\Sort-03-Bubble.exe
+D:\Learn\DSA\CSharp\Sort-03-Bubble\bin\Debug\net8.0\Sort-03-Bubble.deps.json
+D:\Learn\DSA\CSharp\Sort-03-Bubble\bin\Debug\net8.0\Sort-03-Bubble.runtimeconfig.json
+D:\Learn\DSA\CSharp\Sort-03-Bubble\bin\Debug\net8.0\Sort-03-Bubble.dll
+D:\Learn\DSA\CSharp\Sort-03-Bubble\bin\Debug\net8.0\Sort-03-Bubble.pdb
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\Sort-03-Bubble.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\Sort-03-Bubble.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\Sort-03-Bubble.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\Sort-03-Bubble.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\Sort-03-Bubble.dll
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\refint\Sort-03-Bubble.dll
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\Sort-03-Bubble.pdb
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\Sort-03-Bubble.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\Sort-03-Bubble\obj\Debug\net8.0\ref\Sort-03-Bubble.dll

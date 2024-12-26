@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\Factorial\bin\Debug\net8.0\Factorial.exe
+D:\Learn\DSA\CSharp\Factorial\bin\Debug\net8.0\Factorial.deps.json
+D:\Learn\DSA\CSharp\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+D:\Learn\DSA\CSharp\Factorial\bin\Debug\net8.0\Factorial.dll
+D:\Learn\DSA\CSharp\Factorial\bin\Debug\net8.0\Factorial.pdb
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\Factorial.dll
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\Factorial.pdb
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\Factorial\obj\Debug\net8.0\ref\Factorial.dll

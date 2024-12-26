@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\MergeSort\bin\Debug\net8.0\MergeSort.exe
+D:\Learn\DSA\CSharp\MergeSort\bin\Debug\net8.0\MergeSort.deps.json
+D:\Learn\DSA\CSharp\MergeSort\bin\Debug\net8.0\MergeSort.runtimeconfig.json
+D:\Learn\DSA\CSharp\MergeSort\bin\Debug\net8.0\MergeSort.dll
+D:\Learn\DSA\CSharp\MergeSort\bin\Debug\net8.0\MergeSort.pdb
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\MergeSort.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\MergeSort.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\MergeSort.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\MergeSort.dll
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\refint\MergeSort.dll
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\MergeSort.pdb
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\MergeSort.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\MergeSort\obj\Debug\net8.0\ref\MergeSort.dll

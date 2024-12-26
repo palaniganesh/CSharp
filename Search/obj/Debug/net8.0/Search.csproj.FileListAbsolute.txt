@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\Search\bin\Debug\net8.0\Search.exe
+D:\Learn\DSA\CSharp\Search\bin\Debug\net8.0\Search.deps.json
+D:\Learn\DSA\CSharp\Search\bin\Debug\net8.0\Search.runtimeconfig.json
+D:\Learn\DSA\CSharp\Search\bin\Debug\net8.0\Search.dll
+D:\Learn\DSA\CSharp\Search\bin\Debug\net8.0\Search.pdb
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\Search.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\Search.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\Search.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\Search.dll
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\refint\Search.dll
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\Search.pdb
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\Search.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\Search\obj\Debug\net8.0\ref\Search.dll

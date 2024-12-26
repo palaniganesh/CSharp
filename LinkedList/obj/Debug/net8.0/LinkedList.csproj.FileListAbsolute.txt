@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\LinkedList\bin\Debug\net8.0\LinkedList.exe
+D:\Learn\DSA\CSharp\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+D:\Learn\DSA\CSharp\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+D:\Learn\DSA\CSharp\LinkedList\bin\Debug\net8.0\LinkedList.dll
+D:\Learn\DSA\CSharp\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\LinkedList.dll
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

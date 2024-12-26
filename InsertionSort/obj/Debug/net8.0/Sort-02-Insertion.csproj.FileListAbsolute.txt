@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\InsertionSort\bin\Debug\net8.0\Sort-02-Insertion.exe
+D:\Learn\DSA\CSharp\InsertionSort\bin\Debug\net8.0\Sort-02-Insertion.deps.json
+D:\Learn\DSA\CSharp\InsertionSort\bin\Debug\net8.0\Sort-02-Insertion.runtimeconfig.json
+D:\Learn\DSA\CSharp\InsertionSort\bin\Debug\net8.0\Sort-02-Insertion.dll
+D:\Learn\DSA\CSharp\InsertionSort\bin\Debug\net8.0\Sort-02-Insertion.pdb
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\Sort-02-Insertion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\Sort-02-Insertion.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\Sort-02-Insertion.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\Sort-02-Insertion.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\Sort-02-Insertion.dll
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\refint\Sort-02-Insertion.dll
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\Sort-02-Insertion.pdb
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\Sort-02-Insertion.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\InsertionSort\obj\Debug\net8.0\ref\Sort-02-Insertion.dll

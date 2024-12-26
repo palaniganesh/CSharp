@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\SelectionSort\bin\Debug\net8.0\Sort-01-Selection.exe
+D:\Learn\DSA\CSharp\SelectionSort\bin\Debug\net8.0\Sort-01-Selection.deps.json
+D:\Learn\DSA\CSharp\SelectionSort\bin\Debug\net8.0\Sort-01-Selection.runtimeconfig.json
+D:\Learn\DSA\CSharp\SelectionSort\bin\Debug\net8.0\Sort-01-Selection.dll
+D:\Learn\DSA\CSharp\SelectionSort\bin\Debug\net8.0\Sort-01-Selection.pdb
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\Sort-01-Selection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\Sort-01-Selection.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\Sort-01-Selection.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\Sort-01-Selection.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\Sort-01-Selection.dll
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\refint\Sort-01-Selection.dll
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\Sort-01-Selection.pdb
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\Sort-01-Selection.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\SelectionSort\obj\Debug\net8.0\ref\Sort-01-Selection.dll

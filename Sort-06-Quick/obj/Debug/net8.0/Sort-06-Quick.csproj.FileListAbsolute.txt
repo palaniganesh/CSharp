@@ -1,0 +1,14 @@
+D:\Learn\DSA\CSharp\Sort-06-Quick\bin\Debug\net8.0\Sort-06-Quick.exe
+D:\Learn\DSA\CSharp\Sort-06-Quick\bin\Debug\net8.0\Sort-06-Quick.deps.json
+D:\Learn\DSA\CSharp\Sort-06-Quick\bin\Debug\net8.0\Sort-06-Quick.runtimeconfig.json
+D:\Learn\DSA\CSharp\Sort-06-Quick\bin\Debug\net8.0\Sort-06-Quick.dll
+D:\Learn\DSA\CSharp\Sort-06-Quick\bin\Debug\net8.0\Sort-06-Quick.pdb
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\Sort-06-Quick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\Sort-06-Quick.AssemblyInfoInputs.cache
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\Sort-06-Quick.AssemblyInfo.cs
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\Sort-06-Quick.csproj.CoreCompileInputs.cache
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\Sort-06-Quick.dll
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\refint\Sort-06-Quick.dll
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\Sort-06-Quick.pdb
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\Sort-06-Quick.genruntimeconfig.cache
+D:\Learn\DSA\CSharp\Sort-06-Quick\obj\Debug\net8.0\ref\Sort-06-Quick.dll
